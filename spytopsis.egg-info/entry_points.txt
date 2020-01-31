@@ -1,0 +1,3 @@
+[console_scripts]
+spytopsis = spy.tab:main
+

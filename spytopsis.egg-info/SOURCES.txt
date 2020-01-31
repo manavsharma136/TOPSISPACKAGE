@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+readme.md
+setup.py
+spy/tab.py
+spytopsis.egg-info/PKG-INFO
+spytopsis.egg-info/SOURCES.txt
+spytopsis.egg-info/dependency_links.txt
+spytopsis.egg-info/entry_points.txt
+spytopsis.egg-info/requires.txt
+spytopsis.egg-info/top_level.txt
